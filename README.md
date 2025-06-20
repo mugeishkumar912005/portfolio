@@ -1,12 +1,17 @@
 # 🔵 Profile Image Component
 
+Live Site:
+
+https://portfolio-jhwt.onrender.com
+
 A visually appealing React component that displays a circular gradient background with a centered profile image. Ideal for personal portfolios, dashboards, or profile sections.
 
 ---
 
 ## 🖼️ Preview
 
-> _Include a screenshot here if desired (e.g., using Snipping Tool or any screen capture)._
+![Uploading Screenshot 2025-06-20 222720.png…]()
+
 
 ---
 
